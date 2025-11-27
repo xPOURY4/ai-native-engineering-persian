@@ -9,9 +9,7 @@
 [![Language](https://img.shields.io/badge/Language-Persian-green?style=for-the-badge)]()
 
 <p align="center">
-    <a href="https://xPOURY4.github.io/ai-native-engineering-guide-persian/">
-        <img src="https://img.shields.io/badge/READ%20ONLINE-Click%20Here-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Online" height="45">
-    </a>
+  <img src="banner.png" width="100%" alt="AI Engineering Banner" style="border-radius: 5px;">
 </p>
 
 </div>
